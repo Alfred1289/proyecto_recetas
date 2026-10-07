@@ -3,7 +3,8 @@ Pan al Ajo
 # Ingredientes
 • Pasta: 400 gramos de espagueti o fettuccine.
 • Ajo: 6 dientes de ajo grandes, picados finamente o en láminas delgadas.
-• Aceite de oliva: 1/2 taza de aceite de oliva virgen extra de buena calidad.
+• Aceite de olivia: 1/2 taza de aceite de oliva virgen extra de buena calidad.
+# receta de pastel de manzana
 • Queso: 1/2 taza de queso parmesano recién rallado.
 • Hierbas: 1/4 de taza de perejil fresco picado finamente.
 • Especias: 1 cucharadita de hojuelas de chile seco (opcional, para un toque picante).
