@@ -8,5 +8,6 @@ La idea es que cada persona:
 
 ##Reglas
 - Cada receta debe estar clara en su propio archivo
-- Usar nombres claros
-- Escribir ingredientes y pasos
+- Usar nombres clar
+- Escribir ingredi y pasos
+s
